@@ -29,14 +29,19 @@ Ask me anything <a href="mailto:chatterjeedeep2018@gmail.com"><b>send me an emai
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chatterjeedeep08&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Deepargh Chatterjee Github Stats">
+<p align="center">
+<a href="https://github.com/chatterjeedeep08?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=chatterjeedeep08&theme=dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Deepargh's github-readme-stats"/></a>
+<a href="https://github.com/chatterjeedeep08?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=chatterjeedeep08&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Deepargh's github-readme-streak-stats"/></a>
+</p>
 <br />
 <br />
 
 **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=chatterjeedeep08&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatterjeedeep08&layout=compact&theme=dark&bg_color=0A0A0A" alt="Deepargh Chatterjee Top Languages"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chatterjeedeep08&theme=github_dark&hide_border=true" alt="Deepargh Chatterjee Top Languages"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatterjeedeep08&theme=github_dark&hide_border=true" alt="Deepargh Chatterjee Top Languages"/><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatterjeedeep08&theme=github_dark&hide_border=true"  width="70%" alt="@Deepargh's profile-details"/>
 <br />
 <br />
 <br />
