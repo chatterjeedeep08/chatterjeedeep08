@@ -1,7 +1,4 @@
 <div align="center">
-<img width="100%" height = "50%" alt="Developer Illustration" src="https://media.giphy.com/media/moTIUbQmlf0fKHhKfr/giphy-downsized-large.gif"/>
-<br />
-<br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://www.linkedin.com/in/deepargh-chatterjee-086662198/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
