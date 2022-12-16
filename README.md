@@ -66,8 +66,6 @@ Ask me anything <a href="mailto:chatterjeedeep2018@gmail.com"><b>send me an emai
   &nbsp;
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
   &nbsp;
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
-  &nbsp;
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
   &nbsp;
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
